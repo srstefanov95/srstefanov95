@@ -8,7 +8,6 @@ I am a former web developer looking for a career change to expand skills in the 
 My journey in software engineering has led me to develop a growing passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. Here I will document all my projects, home labs and CTF challenges.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +19,6 @@ My journey in software engineering has led me to develop a growing passion for c
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -51,7 +49,7 @@ My journey in software engineering has led me to develop a growing passion for c
 
 <a href="https://docs.google.com/document/d/1tjQ8jXcR2VtVtYrSAZyu2JOqfA9Ws25g65FagCAF6vU/">
     Web Vulnerability Report Exercise
-</a>
+</a><br/>
 <a href="https://docs.google.com/document/d/1fwyKNNQ9tqMo4UTr48SQiDq1_xWWcBDKWR0sccD26aM/">
     Incident Response Plan for a Breach Scenario
 </a>
