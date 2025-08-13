@@ -49,5 +49,9 @@ My journey in software engineering has led me to develop a growing passion for c
 
 ## Projects
 
-- Detection Lab
-- SOC Automation Project
+<a href="https://docs.google.com/document/d/1tjQ8jXcR2VtVtYrSAZyu2JOqfA9Ws25g65FagCAF6vU/">
+    Web Vulnerability Report Exercise
+</a>
+<a href="https://docs.google.com/document/d/1fwyKNNQ9tqMo4UTr48SQiDq1_xWWcBDKWR0sccD26aM/">
+    Incident Response Plan for a Breach Scenario
+</a>
