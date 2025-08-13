@@ -40,9 +40,10 @@ My journey in software engineering has led me to develop a growing passion for c
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+
 ## Certifications
 <div>
-  <span>CompTIA Security+ SY0-701 – Verification Code 3Z51GG3QWNF1S422</span>
+  <a href="https://github.com/user-attachments/files/21751822/CompTIA.Security%2B.ce.certificate.pdf">CompTIA Security+ SY0-701</a>
 </div>
 
 ## Projects
