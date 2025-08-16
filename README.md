@@ -5,7 +5,7 @@
 I am a former web developer looking for a career change to expand skills in the cybersecurity domain. I have professional experience in e-commerce working with complex systems, CRM and APIs, ensuring safe communications, transactions and protecting customer data. So far I've established solid foundations in information security through practical exercises in TryHackMe and completing Pico CTFs.
 
 ## Objective
-My journey in software engineering has led me to develop a growing passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. Here I will document all my projects, home labs and CTF challenges.
+My journey in software engineering has led me to develop a growing passion for cybersecurity, and I am now eager to transition into this field, specifically aiming for an Application Security Engineer or SOC analyst role. Here I will document all my projects, home labs and CTF challenges.
 
 ## Certifications
 <div>
