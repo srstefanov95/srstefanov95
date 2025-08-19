@@ -9,7 +9,8 @@ My journey in software engineering has led me to develop a growing passion for c
 
 ## Certifications
 <div>
-  <a href="https://github.com/user-attachments/files/21751822/CompTIA.Security%2B.ce.certificate.pdf">CompTIA Security+ SY0-701</a>
+  <a href="https://github.com/user-attachments/files/21751822/CompTIA.Security%2B.ce.certificate.pdf">CompTIA Security+ SY0-701</a><br/>
+  <a href="https://github.com/user-attachments/files/21853729/certificate.1.pdf"> Antisyphon Training - Packet Decoding</a>
 </div>
 
 ## Projects
