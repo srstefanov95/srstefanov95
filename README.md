@@ -14,6 +14,9 @@ My journey in software engineering has led me to develop a growing passion for c
 
 ## Projects
 
+<a href="https://github.com/srstefanov95/portswigger-labs">
+    Web Vulnerability Labs from Portswigger
+</a>
 <a href="https://docs.google.com/document/d/1tjQ8jXcR2VtVtYrSAZyu2JOqfA9Ws25g65FagCAF6vU/">
     Web Vulnerability Report Exercise
 </a><br/>
