@@ -3,7 +3,7 @@
 <a href="https://www.credly.com/users/simeon-stefanov.686464f6"><img src="https://img.shields.io/badge/Credly-red?style=for-the-badge"></a>
 
 
-I am a former web developer looking for a career change to expand skills in the cybersecurity domain. I have professional experience in e-commerce working with complex systems, CRM and APIs, ensuring safe communications, transactions and protecting customer data. So far I've established solid foundations in information security through practical exercises in TryHackMe, Portswigger Web Vulnerability labs and completing Pico CTFs.
+I am a former web developer looking for a career change to expand skills in the cybersecurity or DevOps domain. I have professional experience in e-commerce working with complex systems, CRM and APIs, ensuring safe communications, transactions and protecting customer data. So far I've established solid foundations in information security through practical exercises in TryHackMe, Portswigger Web Vulnerability labs and completing Pico CTFs.
 
 ## Objective
 My journey in software engineering has led me to develop a growing passion for cybersecurity, and I am now eager to transition into this field, specifically aiming for an Application Security Engineer or SOC analyst role. Here I will document all my projects, home labs and CTF challenges.
