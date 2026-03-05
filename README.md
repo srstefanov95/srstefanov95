@@ -3,20 +3,21 @@
 <a href="https://www.credly.com/users/simeon-stefanov.686464f6"><img src="https://img.shields.io/badge/Credly-red?style=for-the-badge"></a>
 
 
-I am a former web developer looking for a career change to expand skills in the cybersecurity or DevOps domain. I have professional experience in e-commerce working with complex systems, CRM and APIs, ensuring safe communications, transactions and protecting customer data. So far I've established solid foundations in information security through practical exercises in TryHackMe, Portswigger Web Vulnerability labs and completing Pico CTFs.
+I am a full-stack web developer with interests in the cybersecurity and DevOps domain as well. I have professional experience in e-commerce working with complex systems, CRM and APIs, ensuring safe communications, transactions and protecting customer data. So far I've established solid foundations in information security through practical exercises in TryHackMe, Portswigger Web Vulnerability labs and completing Pico CTFs.
 
-## Objective
-My journey in software engineering has led me to develop a growing passion for cybersecurity, and I am now eager to transition into this field, specifically aiming for an Application Security Engineer or SOC analyst role. Here I will document all my projects, home labs and CTF challenges.
-
-## Certifications
-<div>
-  <a href="https://github.com/user-attachments/files/21751822/CompTIA.Security%2B.ce.certificate.pdf">CompTIA Security+ SY0-701</a><br/>
-  <a href="https://github.com/user-attachments/files/21853729/certificate.1.pdf"> Antisyphon Training - Packet Decoding</a><br/>
-  Google Cybersecurity Certificate
-</div>
+## Skills
+- JavaScript/TypeScript
+- React/Redux
+- NodeJS
+- Salesforce
+- ASP.NET
+- C#
 
 ## Projects
 
+### Web Development
+
+### Security
 <a href="https://github.com/srstefanov95/portswigger-labs">
     Web Vulnerability Labs from Portswigger
 </a><br/>
@@ -26,3 +27,10 @@ My journey in software engineering has led me to develop a growing passion for c
 <a href="https://docs.google.com/document/d/1fwyKNNQ9tqMo4UTr48SQiDq1_xWWcBDKWR0sccD26aM/">
     Incident Response Plan for a Breach Scenario
 </a>
+
+## Certifications
+<div>
+  <a href="https://github.com/user-attachments/files/21751822/CompTIA.Security%2B.ce.certificate.pdf">CompTIA Security+ SY0-701</a><br/>
+  <a href="https://github.com/user-attachments/files/21853729/certificate.1.pdf"> Antisyphon Training - Packet Decoding</a><br/>
+  Google Cybersecurity Certificate
+</div>
