@@ -17,6 +17,11 @@ I am a full-stack web developer with interests in the cybersecurity and DevOps d
 
 ### Web Development
 
+### DevOps
+<a href="https://github.com/srstefanov95/terraform-task">
+    Terraform AWS
+</a>
+
 ### Security
 <a href="https://github.com/srstefanov95/portswigger-labs">
     Web Vulnerability Labs from Portswigger
